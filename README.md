@@ -20,7 +20,7 @@ The final architecture used in this project consists of a simple neural network 
 
 
 
-Outputs:
+Outputs: Left is original (low-resolution image) => Right is the enhanced image
 ![image](https://github.com/user-attachments/assets/dd30de47-bf98-4b64-95e1-ffd97cec16fc)
 ![image](https://github.com/user-attachments/assets/7a0ee702-df72-4410-b898-6cbc608bfe61)
 ![image](https://github.com/user-attachments/assets/cbe50ce3-69e0-4bb5-9bc2-4a6060dd931d)
